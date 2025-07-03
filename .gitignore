@@ -1,0 +1,6 @@
+# Node.js Backend .gitignore 
+node_modules/  
+uploads/  
+.env  
+config.env  
+*.log 
